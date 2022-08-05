@@ -20,7 +20,7 @@ scripts.
 ```
 This script compiles all the `.c` files in `src` folder and creates an output file named as project name.
 
-### compile-and-run.sh
+### magic.sh
 ```bash
 ./compile-and-run.sh
 ```
